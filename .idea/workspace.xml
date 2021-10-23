@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f236fdc3-61a1-4606-9342-8c6fc1190f6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bin/factory/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/factory/factory_main.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/factory/helpers/transport_factory.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/factory/models/airplane.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/factory/models/boat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/factory/models/bus.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/factory/models/transport.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/models/action/slow_down.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/models/action/speed_action.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/models/action/speed_up.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/models/transport/bus.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/models/transport/car.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/models/transport/transport.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/strategy/startegy_main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/design_patterns.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/factory/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bin/factory/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

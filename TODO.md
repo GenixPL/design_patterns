@@ -1,6 +1,6 @@
 [X] Factory
 
-[ ] Strategy
+[X] Strategy
 
 [ ] Template
 
