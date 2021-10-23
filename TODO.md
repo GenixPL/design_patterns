@@ -1,4 +1,4 @@
-[ ] Factory
+[X] Factory
 
 [ ] Strategy
 
