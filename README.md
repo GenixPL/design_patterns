@@ -1,6 +1,6 @@
-[X] Factory
+[X] [Factory](bin/factory/)
 
-[X] Strategy
+[X] [Strategy](bin/strategy)
 
 [ ] Template
 
@@ -8,7 +8,7 @@
 
 [ ] Prototype
 
-[ ] Chain of Responsibility 
+[ ] Chain of Responsibility
 
 [ ] Proxy
 
