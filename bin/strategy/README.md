@@ -8,4 +8,9 @@ point A to B, we can choose between those travelling options, which will probabl
 responsible for displaying a route doesn't care how it has been prepared, so it takes an interface for the logic
 determining the route and asks currently assigned instance of the logic, how the route should look like. Additionally,
 the pattern allows us to dynamically change the strategy - suddenly we want to go with bus not by foot. The pattern
-allows us to simply switch the logic and all the displaying component has to do is to switch it and re-render itself.      
+allows us to simply switch the logic and all the displaying component has to do is to switch it and re-render itself.
+
+Main difference between Strategy and Template patterns is that the Strategy focuses on dynamic behaviour changes and
+Template wants everything to be predefined.
+
+https://refactoring.guru/design-patterns/strategy

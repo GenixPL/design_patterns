@@ -2,7 +2,7 @@
 
 [X] [Strategy](bin/strategy)
 
-[ ] Template
+[X] [Template](bin/template)
 
 [ ] Composite
 
