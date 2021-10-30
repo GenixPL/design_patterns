@@ -6,7 +6,7 @@
 
 [X] [Composite](bin/composite)
 
-[ ] Prototype
+[X] [Prototype](bin/prototype)
 
 [ ] Chain of Responsibility
 
