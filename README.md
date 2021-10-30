@@ -4,7 +4,7 @@
 
 [X] [Template](bin/template)
 
-[ ] Composite
+[X] [Composite](bin/composite)
 
 [ ] Prototype
 
