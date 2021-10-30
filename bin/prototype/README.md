@@ -1,4 +1,4 @@
-## Creational Patterns
+## Creational Pattern
 
 The idea behind prototype is to provide ability to (deep) clone objects without caring about their exact type. This is achieved by creating common interface, that usually consists of only one `clone()` method.
 
