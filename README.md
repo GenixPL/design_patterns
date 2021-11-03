@@ -8,7 +8,7 @@
 
 [X] [Prototype](bin/prototype)
 
-[ ] Chain of Responsibility
+[X] [Chain of Responsibility](bin/chain_of_responsibility)
 
 [ ] Proxy
 
