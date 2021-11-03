@@ -1,4 +1,4 @@
-## Structural Patterns
+## Structural Pattern
 
 The idea behind composite pattern is to simplify dealing with complex tree structures, when we don't care about specific functionalities of each object, and can generalize them into two types - single Objects and Containers containing multiple Objects.
 
