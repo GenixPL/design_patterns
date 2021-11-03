@@ -10,6 +10,6 @@
 
 [X] [Chain of Responsibility](bin/chain_of_responsibility)
 
-[ ] Proxy
+[X] [Proxy](bin/proxy)
 
 [ ] Filter
