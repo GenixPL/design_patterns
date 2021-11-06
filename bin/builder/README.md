@@ -11,3 +11,5 @@ Additionally, we can separate another step in the process, as most of the constr
 It is very useful in languages that don't support named optional parameters.
 
 ### This pattern has many ways in which it can be implemented!
+
+https://refactoring.guru/design-patterns/factory-method
