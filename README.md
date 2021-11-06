@@ -1,15 +1,16 @@
-[X] [Factory](bin/factory/)
+# Creational Patterns
 
-[X] [Strategy](bin/strategy)
+- [Factory](bin/factory)
+- [Prototype](bin/prototype)
+- [Builder](bin/builder)
 
-[X] [Template](bin/template)
+# Structural Patterns
 
-[X] [Composite](bin/composite)
+- [Composite](bin/composite)
+- [Proxy](bin/proxy)
 
-[X] [Prototype](bin/prototype)
+# Behavioral Patterns
 
-[X] [Chain of Responsibility](bin/chain_of_responsibility)
-
-[X] [Proxy](bin/proxy)
-
-[ ] Filter
+- [Template](bin/template)
+- [Strategy](bin/strategy)
+- [Chain of Responsibility](bin/chain_of_responsibility)
