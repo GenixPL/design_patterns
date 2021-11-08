@@ -8,6 +8,7 @@
 
 - [Composite](bin/composite)
 - [Proxy](bin/proxy)
+- [Adapter](bin/adapter)
 
 # Behavioral Patterns
 
