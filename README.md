@@ -1,17 +1,18 @@
 # Creational Patterns
 
+- [Builder](bin/builder)
 - [Factory](bin/factory)
 - [Prototype](bin/prototype)
-- [Builder](bin/builder)
 
 # Structural Patterns
 
+- [Adapter](bin/adapter)
+- [Bridge](bin/bridge)
 - [Composite](bin/composite)
 - [Proxy](bin/proxy)
-- [Adapter](bin/adapter)
 
 # Behavioral Patterns
 
-- [Template](bin/template)
-- [Strategy](bin/strategy)
 - [Chain of Responsibility](bin/chain_of_responsibility)
+- [Strategy](bin/strategy)
+- [Template](bin/template)
