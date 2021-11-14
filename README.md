@@ -9,6 +9,7 @@
 - [Adapter](bin/adapter)
 - [Bridge](bin/bridge)
 - [Composite](bin/composite)
+- [Facade](bin/facade)
 - [Proxy](bin/proxy)
 
 # Behavioral Patterns
